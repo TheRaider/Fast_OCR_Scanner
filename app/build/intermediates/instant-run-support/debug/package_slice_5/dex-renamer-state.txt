@@ -1,0 +1,4 @@
+#Sun Feb 18 16:57:25 IST 2018
+base.0=E\:\\Android\#Vineeth\\MyApps\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=E\:\\Android\#Vineeth\\MyApps\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

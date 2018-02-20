@@ -1,0 +1,7 @@
+#Sun Feb 18 16:57:25 IST 2018
+base.0=E\:\\Android\#Vineeth\\MyApps\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b842c7e0f3c4980f9e3da0ac561cd1cceaaa2261
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android\#Vineeth\\MyApps\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_95876c13f335b8e6215c231acdc091f7de8bb05d\\classes.dex
+base.1=E\:\\Android\#Vineeth\\MyApps\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_95876c13f335b8e6215c231acdc091f7de8bb05d
+file.0=E\:\\Android\#Vineeth\\MyApps\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b842c7e0f3c4980f9e3da0ac561cd1cceaaa2261\\classes.dex

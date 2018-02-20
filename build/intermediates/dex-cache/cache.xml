@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b842c7e0f3c4980f9e3da0ac561cd1cceaaa2261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\d9d2b04556caebc91bdf53e74e1b4162499b092e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cb2fc6936bfd8214213945a69e2c37625ca3faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\d8e50743861a8a03cbb1ef2b04200c67eb91f36d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7533595f4711b9d065785124bb3ebe857ac2710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\d9d2b04556caebc91bdf53e74e1b4162499b092e\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9273c2cce4ccd3cc95fd4c410468a7d6bb634f85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\eaf28d77d65c87bfd1c371d79dc439995c55ca17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92df74ae3fefb76267be949accb2e5876605546a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\4b86da3b784cefe3eff334074ead2020d27a3738\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca803fc12c0f2ca8343e887ceef79b958de9580c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\0e303d076da6ffbed1c663b66fb612db217e85c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88f8219dd90d99445357817e6048a80f0be1c2c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\36fcf3c55d8331c26240c0ad8443b7a4b3578302\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26103bdfbc1724c35c5bdd80781a638fb6f949cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\5cec0335643bb84f7ea4a20e98dbd8e84f3c0fe1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c845a1ede11e8f08c372a44cb2070dc9e916a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\c7a16e824e8d4b755d5925baaae8a6320216f0a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68fb0e8a33e7631859116bd2400343679198f033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\bf27bea15ac4b9e99e1456af9d1f29525192c39c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57653f3b5842cd7b2d8dc5babce783cc9d152fb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\29067aea91c733283cfa7640efadecbeca266972\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5991d7581ee1bb21b449560ac34af8e89de5f453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\5cec0335643bb84f7ea4a20e98dbd8e84f3c0fe1\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_455be8790ec957c04d21c8824895c1cd02dce28c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\2c48192080e19361cbb5a74f090d469b930f30fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f055c381f95a8644aa45407b40b320730c7e73cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\d8e50743861a8a03cbb1ef2b04200c67eb91f36d\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8d06a32dbef95754698e4d370eb2f2855612df43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\13633f522a9012992717c6bc54319fcb47ea9af1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b93f542d6e74e9bc2de9c6e54d3ef4c1c988d42a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\13633f522a9012992717c6bc54319fcb47ea9af1\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e726a5319132cf8e6c2db0cdf71effdefa5a24b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\7fc2dea3434d729d611a2f4affd47da2da3a8ed2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9847a747d9fad5b9e2310151083d2825cc99cbb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\67add91d8589c7bdff673be3215cad1f7595868f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f96bd029cf96c008a7da97ca7499b8713b0d868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\26fbfd90cf2b3138d4d506928cf660e0d211ab90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4b29c93beace9dfe320ec9c05983a9149183a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd1529eab2451eca062be74c34743c94f0916fe3">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_95876c13f335b8e6215c231acdc091f7de8bb05d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinee_000\.android\build-cache\bf27bea15ac4b9e99e1456af9d1f29525192c39c\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\Android#Vineeth\MyApps\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_84ff3465158c168b557707313cb3db71c77fb4a3\classes.dex" />
+    </item>
+
+</items>
